@@ -1,0 +1,11 @@
+{
+  "name": "eslint-plugin-noko", // remember, the name has to start with eslint-plugin
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "~2.6.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
