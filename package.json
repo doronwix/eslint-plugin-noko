@@ -1,0 +1,54 @@
+{
+  "_from": "eslint-plugin-noko@^1.0.0",
+  "_id": "eslint-plugin-noko@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-r8DsysUR0V1v+UIbMt+gU4tK27A=",
+  "_location": "/eslint-plugin-noko",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "eslint-plugin-noko@^1.0.0",
+    "name": "eslint-plugin-noko",
+    "escapedName": "eslint-plugin-noko",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/eslint-plugin-noko/-/eslint-plugin-noko-1.0.0.tgz",
+  "_shasum": "afc0eccac511d15d6ff9421b32dfa0538b4adbb0",
+  "_spec": "eslint-plugin-noko@^1.0.0",
+  "_where": "D:\\Projects\\Branches\\Dev-FX3_noko\\iFOREX Framework\\IFOREX.Clients\\iFOREX.Clients.Web\\nodeUtils",
+  "author": {
+    "name": "doron wix"
+  },
+  "bugs": {
+    "url": "https://github.com/doronwix/eslint-plugin-noko/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "NPM eslint conventions for removing knockoutjs library",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "homepage": "https://github.com/doronwix/eslint-plugin-noko#readme",
+  "keywords": [
+    "knockoutjs",
+    "eslint"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "eslint-plugin-noko",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doronwix/eslint-plugin-noko.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
